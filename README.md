@@ -1,0 +1,2 @@
+# configtest
+Testing GH config
