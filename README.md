@@ -1,6 +1,5 @@
 # configtest
-Testing GH config
 
-Temporary repo to test everything's ok with config.
+🧪 This is a scratch repo for testing git and my config
 
-Here's another test.
+Here's another line to test committing.
